@@ -1,0 +1,219 @@
+body {margin-left: 10%;
+    margin-right: 10%;
+    font-family: 'Bebas Neue', cursive;
+    overflow-x: hidden;
+}
+
+#encabezado {background-color: #f37c86;
+    border: 1px solid black;
+    border-bottom-style:hidden;
+    padding: 25px;
+    padding-left: 125px;
+    height: 210px;
+}
+
+#encabezadouno {background-color: #ff9aa2;
+    border: 2px outset #b6525a;
+    padding: 42px 45px;
+    margin: 2px;
+    float: left;
+    text-align: center;
+    font-size: 15px;
+}
+
+#miimagen {border: 2px outset #b6525a;
+float: left;
+margin: 2px}
+
+#encabezados {background-color: #ff9aa2;
+    border: 2px outset #b6525a;
+    margin: 2px;
+    float:left;
+    text-align: center;
+    font-size: 17px;
+    padding: 10px 20px;
+    height: 190px;
+}
+
+nav {background-color: #ffb7b2;
+border: 1px solid black;
+border-top-style: hidden;
+border-bottom-style:hidden;
+padding: 15px;
+height: 100px;
+text-align: center;}
+
+a {text-decoration:none; color:black;
+float: left;
+padding: 0px 5px;}
+
+a:hover {color: #FF7A70;}
+
+
+
+#destino {display: inline-block 50%;
+text-align:center;}
+
+#dondevamos {list-style: none;
+padding-left: 205px;}
+
+#ancladatosp {position: relative;
+right: -217px;
+top:40%;
+display: inline-block;
+width: 150px;
+height: 30px;
+text-align: center;
+padding-top: 10px;
+border: 1px solid black;}
+
+#anclaestudios {position:relative;
+left: 599px;
+top: -45%;
+display: block;
+width: 150px;
+height: 30px;
+text-align: center;
+padding-top: 10px;
+border: 1px solid black;}
+
+#anclacursos {position: relative;
+right: -217px;
+top:42%;
+display: block;
+width: 150px;
+height: 30px;
+text-align: center;
+padding-top: 10px;
+border: 1px solid black;
+}
+
+#anclaconocimientosad {position:relative;
+left: 597px;
+top: -5%;
+display: block;
+width: 150px;
+height: 30px;
+text-align: center;
+padding-top: 10px;
+border: 1px solid black;}
+
+#anclaexperiencia{position: relative;
+right: -217px;
+top:40%;
+display: block;
+width: 150px;
+height: 30px;
+text-align: center;
+padding-top: 10px;
+border: 1px solid black;}
+
+#anclaintereses {position:relative;
+left: 598px;
+top: -33%;
+display: block;
+width: 150px;
+height: 30px;
+text-align: center;
+padding-top: 10px;
+border: 1px solid black;}
+
+#anclacontratame {position: relative;
+right: -217px;
+top:36%;
+display: block;
+width: 150px;
+height: 30px;
+text-align: center;
+padding-top: 10px;
+border: 1px solid black;}
+    
+    
+
+#infodatosp {position: relative;
+right: -578px;
+top: -20%;
+padding-left: 5px;}
+
+#infoestudios {position: relative;
+right: -171px;
+top: 10%;}
+
+#infocursos {position: relative;
+right: -525px;
+top: -17%}
+ 
+#infoconocimientosad {position: relative;
+right: -158px;
+top: 47px;}
+
+#infoexperiencia {position: relative;
+right: -530px;
+top: -13%;}
+
+#infointereses{position: relative;
+right: -159px;
+top: 17%;}
+
+#infocontratame {position: relative;
+left: 535px;
+top: -7%;}
+
+
+
+
+
+
+
+#PersData {background-color: #FFD2BE ;
+border-left: 1px solid black;
+border-right: 1px solid black;
+height: 150px;}
+
+#estudios {background-color: #FFDAC1;
+border-left: 1px solid black;
+border-right: 1px solid black;
+height: 180px;}
+
+#cursos {background-color: #F8F1BA;
+border-left: 1px solid black;
+border-right: 1px solid black;
+height: 220px;}
+
+#conocimientosad {background-color: #E5FEBE;
+border-left: 1px solid black;
+border-right: 1px solid black;
+height: 150px;}
+
+#experiencia {background-color: #98ECCD;
+border-left: 1px solid black;
+border-right: 1px solid black;
+height: 200px;}
+
+#intereses {background-color:#8FD3DD ;
+border-left: 1px solid black;
+border-right: 1px solid black;
+height: 150px;}
+
+#Contratame {background-color: #9CC5E4;
+border-left: 1px solid black;
+border-right: 1px solid black;
+height: 150px;}
+
+#Hablemos {background-color: #ACB9EB;
+border: 1px solid black;
+border-top-style: hidden;
+height: 240px;
+padding-left: 30px;
+padding-top: 10px;}
+
+#Enviar {background-color: white;
+ border-style: double;
+border-color: #C5EBDB #C0E4ED #CCCEED #DCB8DE;
+border-width: thick;
+color: black;
+font-size: 1rem;
+font-family: 'Bebas Neue', cursive;}
+
+
+
