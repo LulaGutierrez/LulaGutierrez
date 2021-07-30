@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LulaGutierrez
+- 👋 Hi, I’m Lula Gutiérrez
 - 👀 I’m interested in everything about anything-
 - 🌱 I’m currently learning programming.-.
 - 📫 How to reach me lujanvicgutierrez@gmail.com 
